@@ -1,5 +1,39 @@
 # nikol-website-on-github
 
+## Website repositories on github.com/irsbugs 
+
+Note: 2 factor authenticator using mobile phone 2025-03-11
+
+You have enabled two-factor authentication using SMS.
+
+=====
+
+irsbugs.github.io <--- Ian simple website 
+
+hampug-connect <-- Demonstration of websockets Four-in-a-row game
+
+my-website <-- Demo web site for Te Whare O Te Ata
+
+nikola-website-on-github <-- Information on Moving a nikola website: To be cleaned up
+
+=====
+
+## Other websites:
+
+hampug.github.io <--- Now on HamPUG github repository
+
+Web sites for JD:
+jd_simple_website.github.io
+jd_complex_folders_website.github.io
+
+
+Website template for Te Papanui Enderley Community Tust
+papanui.github.io
+
+=====
+
+
+
 ## Moving a nikola website on a PC to a Github account web site.
 
 On a Linux PC do the following to create a Nikola website:
